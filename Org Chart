@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2019-10-24T07:15:07.994Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/77.0.3865.120 Safari/537.36" etag="tRcZJBHll8MgmCKMEXo9" version="12.1.4" type="github" pages="1">
+<mxfile host="www.draw.io" modified="2019-10-24T07:17:04.184Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/77.0.3865.120 Safari/537.36" etag="v8sRRjTzRadH84lj1R-1" version="12.1.4" type="github" pages="1">
   <diagram id="AS-dEKCu-8dQzoZUyHIW" name="Nemo">
     <mxGraphModel dx="1186" dy="666" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2339" pageHeight="3300" math="0" shadow="0">
       <root>
@@ -76,8 +76,8 @@
         <mxCell id="6L2_70BsGGeYaMf50hU6-49" value="&lt;div&gt;Chengming Wang&lt;/div&gt;&lt;div&gt;Dapeng Shi&lt;/div&gt;&lt;div&gt;Fei Wang&lt;/div&gt;&lt;div&gt;Gang Yin&lt;/div&gt;&lt;div&gt;Jieping Wu&lt;/div&gt;&lt;div&gt;Jingcheng Du&lt;/div&gt;&lt;div&gt;Kewen Yao&lt;/div&gt;&lt;div&gt;Manu Zhang&lt;/div&gt;&lt;div&gt;Renjie Liu&lt;/div&gt;&lt;div&gt;Wang Jiaye&lt;/div&gt;&lt;div&gt;Xinglong Wang&lt;/div&gt;&lt;div&gt;Yinhui Li&lt;/div&gt;&lt;div&gt;Yiqun Lin&lt;/div&gt;&lt;div&gt;Yujun Luo&lt;/div&gt;&lt;div&gt;Yuling Fei&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="321" y="360" width="123" height="230" as="geometry"/>
         </mxCell>
-        <mxCell id="6L2_70BsGGeYaMf50hU6-50" value="&lt;div&gt;GuangQuan Yang&lt;/div&gt;&lt;div&gt;Gui Zhang&lt;/div&gt;&lt;div&gt;He Li&lt;/div&gt;&lt;div&gt;Joey Xu&lt;/div&gt;&lt;div&gt;Lei Zhang&lt;/div&gt;&lt;div&gt;Lianhu Xu&lt;/div&gt;&lt;div&gt;Qihua Wu&lt;/div&gt;&lt;div&gt;Qiuyang Liu&lt;/div&gt;&lt;div&gt;Rachel Zhou&lt;/div&gt;&lt;div&gt;Ruixiang Chen&lt;/div&gt;&lt;div&gt;Tao Liu&lt;/div&gt;&lt;div&gt;Wenqi Deng&lt;/div&gt;&lt;div&gt;Xiaofan Chen&lt;/div&gt;&lt;div&gt;Xiaohang Shi&lt;/div&gt;&lt;div&gt;Xin Gu&lt;/div&gt;&lt;div&gt;Xin Xiong&lt;/div&gt;&lt;div&gt;Xin Xu&lt;/div&gt;&lt;div&gt;Xiongya You&lt;/div&gt;&lt;div&gt;Yemin Sui&lt;/div&gt;&lt;div&gt;Yuqin Yang&lt;/div&gt;&lt;div&gt;Zhang Chen&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="461" y="360" width="123" height="310" as="geometry"/>
+        <mxCell id="6L2_70BsGGeYaMf50hU6-50" value="&lt;div&gt;Alvin Zhang&lt;/div&gt;&lt;div&gt;Gang Ma&lt;/div&gt;&lt;div&gt;Gang Wang&lt;/div&gt;&lt;div&gt;Hailang Tang&lt;/div&gt;&lt;div&gt;Lantao Jin&lt;/div&gt;&lt;div&gt;Lei Ge&lt;/div&gt;&lt;div&gt;Pengfei Chang&lt;/div&gt;&lt;div&gt;Xiaoju Wu&lt;/div&gt;&lt;div&gt;Xiaoyun Ding&lt;/div&gt;&lt;div&gt;Xingchao Zhang&lt;/div&gt;&lt;div&gt;Xuedong Luan&lt;/div&gt;&lt;div&gt;Yanghong Zhong&lt;/div&gt;&lt;div&gt;Yuming Wang&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="461" y="360" width="123" height="200" as="geometry"/>
         </mxCell>
       </root>
     </mxGraphModel>
